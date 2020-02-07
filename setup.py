@@ -221,7 +221,7 @@ class Main(Dialog):
                     elif _platform == "darwin":
                         print(" Mac os ")
                     elif _platform == "win64":
-                        print(" Windows ")
+                        print(" Windows X ")
 
             else:
                 print("Não existe ficheiro anterior")

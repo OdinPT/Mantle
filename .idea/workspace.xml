@@ -33,7 +33,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="Python.main">
     <configuration name="Form_RegTimeBackup" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -206,6 +206,7 @@
       <workItem from="1580769412910" duration="599000" />
       <workItem from="1580845923015" duration="14344000" />
       <workItem from="1580911641556" duration="6034000" />
+      <workItem from="1581114599387" duration="437000" />
     </task>
     <task id="LOCAL-00001" summary="21-11-2019">
       <created>1574345428683</created>
@@ -394,10 +395,10 @@
     </state>
     <state width="372" height="562" key="GridCell.Tab.0.right/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1580874864173" />
     <state width="171" height="559" key="GridCell.Tab.0.right/0.1024.1366.768/32.0.1366.768@32.0.1366.768" timestamp="1580921162460" />
-    <state x="219" y="0" width="1133" height="768" key="SettingsEditor" timestamp="1580938356928">
-      <screen x="32" y="0" width="1366" height="768" />
+    <state x="187" y="1024" width="1133" height="768" key="SettingsEditor" timestamp="1581115083911">
+      <screen x="0" y="1024" width="1366" height="768" />
     </state>
-    <state x="187" y="1042" width="1133" height="750" key="SettingsEditor/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1580861697985" />
+    <state x="187" y="1024" width="1133" height="768" key="SettingsEditor/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1581115083911" />
     <state x="219" y="0" width="1133" height="768" key="SettingsEditor/0.1024.1366.768/32.0.1366.768@32.0.1366.768" timestamp="1580938356928" />
     <state x="187" y="773" width="992" height="725" key="SettingsEditor/0.768.1366.768/0.0.1366.768@0.768.1366.768" timestamp="1580700345115" />
     <state x="211" y="67" width="1002" height="649" key="Vcs.Push.Dialog.v2" timestamp="1580921291025">
