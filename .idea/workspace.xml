@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c4d53c3-12d0-40c2-8718-de957211d461" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1TFDNU3dSpjHIDzEYmAwkJm1Hoe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Form_RegTimeBackup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Make_Backup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Form_RegTimeBackup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ShowGridBackup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Make_Backup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ShowGridBackup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="about" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Make_Backup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/about.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="form" type="PythonConfigurationType" factoryName="Python">
+      <module name="Make_Backup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/formWin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python">
+      <module name="Make_Backup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/setup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Make_Backup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.form" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.Form_RegTimeBackup" />
+      <item itemvalue="Python.ShowGridBackup" />
+      <item itemvalue="Python.about" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ShowGridBackup" />
+        <item itemvalue="Python.Form_RegTimeBackup" />
+        <item itemvalue="Python.about" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c4d53c3-12d0-40c2-8718-de957211d461" name="Default Changelist" comment="" />
+      <created>1573046909286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573046909286</updated>
+      <workItem from="1580677430097" duration="8000" />
+      <workItem from="1580680637290" duration="976000" />
+      <workItem from="1580681682121" duration="600000" />
+      <workItem from="1580683564727" duration="197000" />
+      <workItem from="1580689285691" duration="571000" />
+      <workItem from="1580690700311" duration="35000" />
+      <workItem from="1580696155471" duration="2480000" />
+      <workItem from="1580755721287" duration="237000" />
+      <workItem from="1580769412910" duration="599000" />
+      <workItem from="1580845923015" duration="14344000" />
+      <workItem from="1580911641556" duration="6034000" />
+    </task>
+    <task id="LOCAL-00001" summary="21-11-2019">
+      <created>1574345428683</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574345428683</updated>
+    </task>
+    <task id="LOCAL-00002" summary="21-11-2019 backup 5:49 pm">
+      <created>1574358578858</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574358578858</updated>
+    </task>
+    <task id="LOCAL-00003" summary="menu da app em formWin">
+      <created>1575400596611</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575400596612</updated>
+    </task>
+    <task id="LOCAL-00004" summary="about  with link to github">
+      <created>1575685332348</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575685332348</updated>
+    </task>
+    <task id="LOCAL-00005" summary="a abrir janela about quando no menu é selecionado a opção para abrir o sobre a aplicação.&#10;&#10;a fechar quando no menu carrega-se no fechar ou ALT+Q">
+      <created>1576543823908</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576543823908</updated>
+    </task>
+    <task id="LOCAL-00006" summary="17-12-2019">
+      <created>1576544230767</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1576544230767</updated>
+    </task>
+    <task id="LOCAL-00007" summary="17-12-2019">
+      <created>1576549735361</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1576549735361</updated>
+    </task>
+    <task id="LOCAL-00008" summary="25-12-2019&#10;&#10;Merry Christmas ::)">
+      <created>1577237582354</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1577237582354</updated>
+    </task>
+    <task id="LOCAL-00009" summary="02-01-2020&#10;&#10;Logging to log file when backed up">
+      <created>1577929866073</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1577929866073</updated>
+    </task>
+    <task id="LOCAL-00010" summary="a verificar tempo de backup e confirmar próxima data a realizar backup">
+      <created>1578346666537</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1578346666537</updated>
+    </task>
+    <task id="LOCAL-00011" summary="__make name file with date logBackup">
+      <created>1579288932344</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1579288932345</updated>
+    </task>
+    <task id="LOCAL-00012" summary="return old backup names">
+      <created>1579290906881</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1579290906881</updated>
+    </task>
+    <task id="LOCAL-00013" summary="return old backup names">
+      <created>1579290930444</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1579290930444</updated>
+    </task>
+    <task id="LOCAL-00014" summary="optimizing log date backup">
+      <created>1579393791239</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1579393791239</updated>
+    </task>
+    <task id="LOCAL-00015" summary="end&#10;&#10;Begin for compiling :)">
+      <created>1579396603553</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1579396603554</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Moving backup file to other directory if there are changes in backup directory">
+      <created>1580876569507</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1580876569507</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Moving backup file to other directory if there are changes in backup directory">
+      <created>1580921287537</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1580921287537</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="21-11-2019" />
+    <MESSAGE value="21-11-2019 backup 5:49 pm" />
+    <MESSAGE value="menu da app em formWin" />
+    <MESSAGE value="about  with link to github" />
+    <MESSAGE value="a abrir janela about quando no menu é selecionado a opção para abrir o sobre a aplicação.&#10;&#10;a fechar quando no menu carrega-se no fechar ou ALT+Q" />
+    <MESSAGE value="17-12-2019" />
+    <MESSAGE value="25-12-2019&#10;&#10;Merry Christmas ::)" />
+    <MESSAGE value="02-01-2020&#10;&#10;Logging to log file when backed up" />
+    <MESSAGE value="a verificar tempo de backup e confirmar próxima data a realizar backup" />
+    <MESSAGE value="__make name file with date logBackup" />
+    <MESSAGE value="return old backup names" />
+    <MESSAGE value="optimizing log date backup" />
+    <MESSAGE value="end&#10;&#10;Begin for compiling :)" />
+    <MESSAGE value="Moving backup file to other directory if there are changes in backup directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moving backup file to other directory if there are changes in backup directory" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="32" y="22" width="839" height="746" key="CommitChangelistDialog2" timestamp="1580921287084">
+      <screen x="32" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="1046" width="839" height="746" key="CommitChangelistDialog2/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1580876568766" />
+    <state x="32" y="22" key="CommitChangelistDialog2/0.1024.1366.768/32.0.1366.768@32.0.1366.768" timestamp="1580921287084" />
+    <state width="171" height="559" key="GridCell.Tab.0.bottom" timestamp="1580921162461">
+      <screen x="32" y="0" width="1366" height="768" />
+    </state>
+    <state width="372" height="562" key="GridCell.Tab.0.bottom/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1580874864173" />
+    <state width="171" height="559" key="GridCell.Tab.0.bottom/0.1024.1366.768/32.0.1366.768@32.0.1366.768" timestamp="1580921162461" />
+    <state width="171" height="559" key="GridCell.Tab.0.center" timestamp="1580921162460">
+      <screen x="32" y="0" width="1366" height="768" />
+    </state>
+    <state width="372" height="562" key="GridCell.Tab.0.center/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1580874864173" />
+    <state width="171" height="559" key="GridCell.Tab.0.center/0.1024.1366.768/32.0.1366.768@32.0.1366.768" timestamp="1580921162460" />
+    <state width="171" height="559" key="GridCell.Tab.0.left" timestamp="1580921162460">
+      <screen x="32" y="0" width="1366" height="768" />
+    </state>
+    <state width="372" height="562" key="GridCell.Tab.0.left/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1580874864173" />
+    <state width="171" height="559" key="GridCell.Tab.0.left/0.1024.1366.768/32.0.1366.768@32.0.1366.768" timestamp="1580921162460" />
+    <state width="171" height="559" key="GridCell.Tab.0.right" timestamp="1580921162460">
+      <screen x="32" y="0" width="1366" height="768" />
+    </state>
+    <state width="372" height="562" key="GridCell.Tab.0.right/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1580874864173" />
+    <state width="171" height="559" key="GridCell.Tab.0.right/0.1024.1366.768/32.0.1366.768@32.0.1366.768" timestamp="1580921162460" />
+    <state x="219" y="0" width="1133" height="768" key="SettingsEditor" timestamp="1580938356928">
+      <screen x="32" y="0" width="1366" height="768" />
+    </state>
+    <state x="187" y="1042" width="1133" height="750" key="SettingsEditor/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1580861697985" />
+    <state x="219" y="0" width="1133" height="768" key="SettingsEditor/0.1024.1366.768/32.0.1366.768@32.0.1366.768" timestamp="1580938356928" />
+    <state x="187" y="773" width="992" height="725" key="SettingsEditor/0.768.1366.768/0.0.1366.768@0.768.1366.768" timestamp="1580700345115" />
+    <state x="211" y="67" width="1002" height="649" key="Vcs.Push.Dialog.v2" timestamp="1580921291025">
+      <screen x="32" y="0" width="1366" height="768" />
+    </state>
+    <state x="179" y="1091" width="1002" height="649" key="Vcs.Push.Dialog.v2/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1580876579037" />
+    <state x="211" y="67" key="Vcs.Push.Dialog.v2/0.1024.1366.768/32.0.1366.768@32.0.1366.768" timestamp="1580921291025" />
+    <state x="384" y="975" key="com.intellij.ide.util.TipDialog" timestamp="1580687848317">
+      <screen x="0" y="768" width="1366" height="768" />
+    </state>
+    <state x="384" y="975" key="com.intellij.ide.util.TipDialog/0.768.1366.768/0.0.1366.768@0.768.1366.768" timestamp="1580687848317" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Mantle$main.coverage" NAME="main Coverage Results" MODIFIED="1580921162431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
