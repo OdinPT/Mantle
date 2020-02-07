@@ -207,7 +207,7 @@
       <workItem from="1580769412910" duration="599000" />
       <workItem from="1580845923015" duration="14344000" />
       <workItem from="1580911641556" duration="6034000" />
-      <workItem from="1581114599387" duration="1583000" />
+      <workItem from="1581114599387" duration="1865000" />
     </task>
     <task id="LOCAL-00001" summary="21-11-2019">
       <created>1574345428683</created>
@@ -335,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581115515368</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="reload Readme">
+      <created>1581116615696</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1581116615696</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -376,13 +383,14 @@
     <MESSAGE value="end&#10;&#10;Begin for compiling :)" />
     <MESSAGE value="Moving backup file to other directory if there are changes in backup directory" />
     <MESSAGE value="Moving backup file to other directory if there are changes in backup directory :/" />
-    <option name="LAST_COMMIT_MESSAGE" value="Moving backup file to other directory if there are changes in backup directory :/" />
+    <MESSAGE value="reload Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="reload Readme" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="1046" width="839" height="746" key="CommitChangelistDialog2" timestamp="1581115514942">
+    <state x="0" y="1046" width="839" height="746" key="CommitChangelistDialog2" timestamp="1581116615140">
       <screen x="0" y="1024" width="1366" height="768" />
     </state>
-    <state x="0" y="1046" width="839" height="746" key="CommitChangelistDialog2/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1581115514942" />
+    <state x="0" y="1046" width="839" height="746" key="CommitChangelistDialog2/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1581116615140" />
     <state x="32" y="22" key="CommitChangelistDialog2/0.1024.1366.768/32.0.1366.768@32.0.1366.768" timestamp="1580921287084" />
     <state width="171" height="559" key="GridCell.Tab.0.bottom" timestamp="1580921162461">
       <screen x="32" y="0" width="1366" height="768" />
@@ -410,10 +418,10 @@
     <state x="187" y="1024" width="1133" height="768" key="SettingsEditor/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1581115083911" />
     <state x="219" y="0" width="1133" height="768" key="SettingsEditor/0.1024.1366.768/32.0.1366.768@32.0.1366.768" timestamp="1580938356928" />
     <state x="187" y="773" width="992" height="725" key="SettingsEditor/0.768.1366.768/0.0.1366.768@0.768.1366.768" timestamp="1580700345115" />
-    <state x="179" y="1091" width="1002" height="649" key="Vcs.Push.Dialog.v2" timestamp="1581115517589">
+    <state x="179" y="1091" width="1002" height="649" key="Vcs.Push.Dialog.v2" timestamp="1581116620775">
       <screen x="0" y="1024" width="1366" height="768" />
     </state>
-    <state x="179" y="1091" width="1002" height="649" key="Vcs.Push.Dialog.v2/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1581115517589" />
+    <state x="179" y="1091" width="1002" height="649" key="Vcs.Push.Dialog.v2/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1581116620775" />
     <state x="211" y="67" key="Vcs.Push.Dialog.v2/0.1024.1366.768/32.0.1366.768@32.0.1366.768" timestamp="1580921291025" />
     <state x="384" y="975" key="com.intellij.ide.util.TipDialog" timestamp="1580687848317">
       <screen x="0" y="768" width="1366" height="768" />
