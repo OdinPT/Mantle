@@ -21,3 +21,4 @@ By checking the hash functions, it is checked whether there is a difference betw
 We can also perform backup every time the application is re-opened, which is what happens if backups are not scheduled.
 
 The project was carried out in Python using the PyQt GUI.
+__
