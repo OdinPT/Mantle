@@ -11,6 +11,7 @@ from future.backports.datetime import timedelta
 from datetime import date, timedelta
 from formWin import *
 from sys import platform as _platform
+import getpass
 
 logfile = 'logBackup.conf'
 
@@ -206,22 +207,35 @@ class Main(Dialog):
                     else:
                         dir = os.mkdir('Backups/')
 
-                    temp = 'Old_File.' + OldFile
-                    #Change name file
+                nfileBackup= 'Old_File.' + OldFile
+                print('Old_File.' + OldFile)
 
-                    #os.rename(OldFile, temp)
+                _platform ="linux"
 
-                    #move file
-                    shutil.copy2(temp, 'Backups/');
-                    #os.remove(temp)
-                    _platform ="win64"
+                if _platform == "linux" or _platform == "linux2":
+                    print("==> linux \n")
 
-                    if _platform == "linux" or _platform == "linux2":
-                        print(" linux")
-                    elif _platform == "darwin":
-                        print(" Mac os ")
-                    elif _platform == "win64":
-                        print(" Windows X ")
+                    user = getpass.getuser()
+                    print(user)
+                    userx = str(user)
+
+                    os.rename(OldFile, nfileBackup)
+                    shutil.copy2(nfileBackup, 'Backups/');
+                    # os.remove(temp)
+
+                    print("/home/" + userx + "/" + "Backups_Mantle/")
+
+                    loctemp = str("/home/" + userx + "/" + "Backups_Mantle/")
+                    print(loctemp)
+                    localx = os.mkdir(loctemp)
+
+                    shutil.copy2(nfileBackup,loctemp);
+
+
+                elif _platform == "darwin":
+                    print(" Mac os ")
+                elif _platform == "win64":
+                    print(" Windows X ")
 
             else:
                 print("Não existe ficheiro anterior")
