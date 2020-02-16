@@ -10,9 +10,12 @@ from Qt import QtGui
 from future.backports.datetime import timedelta
 from datetime import date, timedelta
 from formWin import *
+
 from sys import platform as _platform
 import getpass
+import  ShowGridBackup
 
+ArBackups = []
 logfile = 'logBackup.conf'
 
 def gennamefile():
@@ -46,6 +49,11 @@ def ReadFirstLine(nomefile):
   with open(nomefile) as f:
     first_line = f.readline()
     return first_line
+
+def listdir(dir) :
+    for file in os.listdir(dir):
+        ArBackups.append(file)
+    return file
 
 class Main(Dialog):
 
@@ -210,30 +218,40 @@ class Main(Dialog):
                 nfileBackup= 'Old_File.' + OldFile
                 print('Old_File.' + OldFile)
 
+
                 _platform ="linux"
 
                 if _platform == "linux" or _platform == "linux2":
                     print("==> linux \n")
 
                     user = getpass.getuser()
-                    print(user)
                     userx = str(user)
 
                     os.rename(OldFile, nfileBackup)
                     shutil.copy2(nfileBackup, 'Backups/');
-                    # os.remove(temp)
-
-                    print("/home/" + userx + "/" + "Backups_Mantle/")
 
                     loctemp = str("/home/" + userx + "/" + "Backups_Mantle/")
                     print(loctemp)
-                    localx = os.mkdir(loctemp)
 
-                    shutil.copy2(nfileBackup,loctemp);
+                    Dir_bacmantle = os.path.isdir(loctemp)
+
+                    if Dir_bacmantle == 1:
+                        shutil.copy2(nfileBackup, loctemp);
+                        #print(nfileBackup)
+                    else:
+                     localx = os.mkdir(loctemp)
+                     shutil.copy2(nfileBackup, loctemp);
+
+                    #to remove old files
+                    #os.remove(nfileBackup)
+                    listdir(loctemp)
+                    for item in ArBackups :
+                        print(item)
+                    #Retornamax elements from array
+                    print(len(ArBackups))
 
 
-                elif _platform == "darwin":
-                    print(" Mac os ")
+
                 elif _platform == "win64":
                     print(" Windows X ")
 

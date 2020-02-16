@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7c4d53c3-12d0-40c2-8718-de957211d461" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShowGridBackup.py" beforeDir="false" afterPath="$PROJECT_DIR$/ShowGridBackup.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logBackup.conf" beforeDir="false" afterPath="$PROJECT_DIR$/logBackup.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
@@ -216,7 +217,7 @@
       <workItem from="1581508381356" duration="287000" />
       <workItem from="1581511248462" duration="1087000" />
       <workItem from="1581522420096" duration="3646000" />
-      <workItem from="1581628983706" duration="14015000" />
+      <workItem from="1581628983706" duration="35497000" />
     </task>
     <task id="LOCAL-00001" summary="21-11-2019">
       <created>1574345428683</created>
@@ -365,7 +366,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581340487421</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="__EN__&#10;Moving the previous backup file to the Mantle_Backups in user home directory&#10;__PT__&#10;A Mover o ficheiro anterior de backups para o diretório Mantle_Backups">
+      <created>1581731836128</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1581731836129</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -408,37 +416,42 @@
     <MESSAGE value="Moving backup file to other directory if there are changes in backup directory :/" />
     <MESSAGE value="reload Readme" />
     <MESSAGE value="reload Readme__PT__ and __EN__" />
-    <option name="LAST_COMMIT_MESSAGE" value="reload Readme__PT__ and __EN__" />
+    <MESSAGE value="__EN__&#10;Moving the previous backup file to the Mantle_Backups in user home directory&#10;__PT__&#10;A Mover o ficheiro anterior de backups para o diretório Mantle_Backups" />
+    <option name="LAST_COMMIT_MESSAGE" value="__EN__&#10;Moving the previous backup file to the Mantle_Backups in user home directory&#10;__PT__&#10;A Mover o ficheiro anterior de backups para o diretório Mantle_Backups" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="43" width="839" height="746" key="CommitChangelistDialog2" timestamp="1581340486598">
-      <screen x="0" y="22" width="1366" height="746" />
+    <state x="0" y="1046" width="839" height="746" key="CommitChangelistDialog2" timestamp="1581731835474">
+      <screen x="0" y="1024" width="1366" height="768" />
     </state>
-    <state x="0" y="1046" width="839" height="746" key="CommitChangelistDialog2/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1581116903545" />
+    <state x="0" y="1046" width="839" height="746" key="CommitChangelistDialog2/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1581731835474" />
     <state x="32" y="22" key="CommitChangelistDialog2/0.1024.1366.768/32.0.1366.768@32.0.1366.768" timestamp="1580921287084" />
     <state x="0" y="43" key="CommitChangelistDialog2/0.22.1366.746@0.22.1366.746" timestamp="1581340486598" />
-    <state width="344" height="591" key="GridCell.Tab.0.bottom" timestamp="1581731657167">
+    <state x="470" y="1179" key="FileChooserDialogImpl" timestamp="1581732326085">
       <screen x="0" y="1024" width="1366" height="768" />
     </state>
-    <state width="344" height="591" key="GridCell.Tab.0.bottom/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1581731657167" />
+    <state x="470" y="1179" key="FileChooserDialogImpl/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1581732326085" />
+    <state width="344" height="591" key="GridCell.Tab.0.bottom" timestamp="1581820658308">
+      <screen x="0" y="1024" width="1366" height="768" />
+    </state>
+    <state width="344" height="591" key="GridCell.Tab.0.bottom/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1581820658308" />
     <state width="171" height="559" key="GridCell.Tab.0.bottom/0.1024.1366.768/32.0.1366.768@32.0.1366.768" timestamp="1580921162461" />
     <state width="342" height="584" key="GridCell.Tab.0.bottom/0.22.1366.746@0.22.1366.746" timestamp="1581526216769" />
-    <state width="344" height="591" key="GridCell.Tab.0.center" timestamp="1581731657166">
+    <state width="344" height="591" key="GridCell.Tab.0.center" timestamp="1581820658307">
       <screen x="0" y="1024" width="1366" height="768" />
     </state>
-    <state width="344" height="591" key="GridCell.Tab.0.center/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1581731657166" />
+    <state width="344" height="591" key="GridCell.Tab.0.center/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1581820658307" />
     <state width="171" height="559" key="GridCell.Tab.0.center/0.1024.1366.768/32.0.1366.768@32.0.1366.768" timestamp="1580921162460" />
     <state width="342" height="584" key="GridCell.Tab.0.center/0.22.1366.746@0.22.1366.746" timestamp="1581526216769" />
-    <state width="344" height="591" key="GridCell.Tab.0.left" timestamp="1581731657166">
+    <state width="344" height="591" key="GridCell.Tab.0.left" timestamp="1581820658307">
       <screen x="0" y="1024" width="1366" height="768" />
     </state>
-    <state width="344" height="591" key="GridCell.Tab.0.left/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1581731657166" />
+    <state width="344" height="591" key="GridCell.Tab.0.left/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1581820658307" />
     <state width="171" height="559" key="GridCell.Tab.0.left/0.1024.1366.768/32.0.1366.768@32.0.1366.768" timestamp="1580921162460" />
     <state width="342" height="584" key="GridCell.Tab.0.left/0.22.1366.746@0.22.1366.746" timestamp="1581526216768" />
-    <state width="344" height="591" key="GridCell.Tab.0.right" timestamp="1581731657166">
+    <state width="344" height="591" key="GridCell.Tab.0.right" timestamp="1581820658308">
       <screen x="0" y="1024" width="1366" height="768" />
     </state>
-    <state width="344" height="591" key="GridCell.Tab.0.right/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1581731657166" />
+    <state width="344" height="591" key="GridCell.Tab.0.right/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1581820658308" />
     <state width="171" height="559" key="GridCell.Tab.0.right/0.1024.1366.768/32.0.1366.768@32.0.1366.768" timestamp="1580921162460" />
     <state width="342" height="584" key="GridCell.Tab.0.right/0.22.1366.746@0.22.1366.746" timestamp="1581526216769" />
     <state x="263" y="0" width="910" height="725" key="SettingsEditor" timestamp="1581694834253">
@@ -448,10 +461,10 @@
     <state x="219" y="0" width="1133" height="768" key="SettingsEditor/0.1024.1366.768/32.0.1366.768@32.0.1366.768" timestamp="1580938356928" />
     <state x="187" y="22" key="SettingsEditor/0.22.1366.746@0.22.1366.746" timestamp="1581511400055" />
     <state x="187" y="773" width="992" height="725" key="SettingsEditor/0.768.1366.768/0.0.1366.768@0.768.1366.768" timestamp="1580700345115" />
-    <state x="179" y="87" width="1002" height="649" key="Vcs.Push.Dialog.v2" timestamp="1581340496069">
-      <screen x="0" y="22" width="1366" height="746" />
+    <state x="179" y="1091" width="1002" height="649" key="Vcs.Push.Dialog.v2" timestamp="1581731840430">
+      <screen x="0" y="1024" width="1366" height="768" />
     </state>
-    <state x="179" y="1091" width="1002" height="649" key="Vcs.Push.Dialog.v2/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1581116905550" />
+    <state x="179" y="1091" width="1002" height="649" key="Vcs.Push.Dialog.v2/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1581731840430" />
     <state x="211" y="67" key="Vcs.Push.Dialog.v2/0.1024.1366.768/32.0.1366.768@32.0.1366.768" timestamp="1580921291025" />
     <state x="179" y="87" key="Vcs.Push.Dialog.v2/0.22.1366.746@0.22.1366.746" timestamp="1581340496069" />
     <state x="384" y="975" key="com.intellij.ide.util.TipDialog" timestamp="1580687848317">
@@ -460,6 +473,7 @@
     <state x="384" y="975" key="com.intellij.ide.util.TipDialog/0.768.1366.768/0.0.1366.768@0.768.1366.768" timestamp="1580687848317" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Mantle$main.coverage" NAME="main Coverage Results" MODIFIED="1581731657082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mantle$ShowGridBackup.coverage" NAME="ShowGridBackup Coverage Results" MODIFIED="1581819446582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mantle$main.coverage" NAME="main Coverage Results" MODIFIED="1581820658285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

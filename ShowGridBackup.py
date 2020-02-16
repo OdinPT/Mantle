@@ -1,7 +1,7 @@
 import sys
 
 from PyQt5.QtWidgets import QWidget, QFormLayout, QLineEdit, QTableWidget, QGridLayout, QApplication
-
+from setup import *
 
 class ShowGB(QWidget):
 
@@ -32,6 +32,9 @@ class ShowGB(QWidget):
     self.tableWidget.horizontalHeader().setStretchLastSection(True)     # header size
     self.tableWidget.resizeRowsToContents()
 
+    for item in ArBackups:
+      layout.setItem()
+
 
     layout.addWidget(self.tableWidget)
     self.setLayout(layout)
@@ -41,6 +44,13 @@ class ShowGB(QWidget):
   def initUI(self):
       self.setWindowTitle(self.title)
       self.setGeometry(self.left, self.top, self.width, self.height)
+      numrows = len(ArBackups)  # 6 rows in your example
+
+      self.tableWidget.setRowCount(numrows)
+      for row in range(numrows):
+          # Check if value datatime, if True convert to string
+            self.tableWidget.setItem(row, QTableWidgetItem(ArBackups[row]))
+
 
 if __name__ == '__main__':
 
