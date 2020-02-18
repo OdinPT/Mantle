@@ -3,6 +3,7 @@ import hashlib
 import os.path
 import pathlib
 import shutil
+import subprocess
 import sys
 import zipfile as zipf
 from PyQt5.QtWidgets import *
@@ -13,7 +14,6 @@ from formWin import *
 
 from sys import platform as _platform
 import getpass
-import  ShowGridBackup
 
 ArBackups = []
 logfile = 'logBackup.conf'
@@ -50,10 +50,6 @@ def ReadFirstLine(nomefile):
     first_line = f.readline()
     return first_line
 
-def listdir(dir) :
-    for file in os.listdir(dir):
-        ArBackups.append(file)
-    return file
 
 class Main(Dialog):
 
@@ -244,17 +240,13 @@ class Main(Dialog):
 
                     #to remove old files
                     #os.remove(nfileBackup)
-                    listdir(loctemp)
-                    for item in ArBackups :
-                        print(item)
-                    #Retornamax elements from array
-                    print(len(ArBackups))
+
+                    subprocess.check_call(["xdg-open", "--", loctemp])
 
 
 
                 elif _platform == "win64":
-                    print(" Windows X ")
-
+                    print(" Windows X ")#ver de mostrar a grid de ShowGrid
             else:
                 print("Não existe ficheiro anterior")
 

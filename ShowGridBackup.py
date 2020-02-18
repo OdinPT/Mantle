@@ -1,14 +1,21 @@
+import getpass
+import os
 import sys
 
 from PyQt5.QtWidgets import QWidget, QFormLayout, QLineEdit, QTableWidget, QGridLayout, QApplication
-from setup import *
+
+ArBackups = []
+
+def listdir(dir):
+  for file in os.listdir(dir):
+    ArBackups.append(file)
+  return file
+
 
 class ShowGB(QWidget):
 
   def __init__(self):
     super().__init__()
-
-    #window = QWidget()
 
     central_widget = QWidget(self)
 
@@ -32,9 +39,6 @@ class ShowGB(QWidget):
     self.tableWidget.horizontalHeader().setStretchLastSection(True)     # header size
     self.tableWidget.resizeRowsToContents()
 
-    for item in ArBackups:
-      layout.setItem()
-
 
     layout.addWidget(self.tableWidget)
     self.setLayout(layout)
@@ -44,15 +48,22 @@ class ShowGB(QWidget):
   def initUI(self):
       self.setWindowTitle(self.title)
       self.setGeometry(self.left, self.top, self.width, self.height)
-      numrows = len(ArBackups)  # 6 rows in your example
+      user = getpass.getuser()
+      userx = str(user)
 
-      self.tableWidget.setRowCount(numrows)
-      for row in range(numrows):
-          # Check if value datatime, if True convert to string
-            self.tableWidget.setItem(row, QTableWidgetItem(ArBackups[row]))
+      loctemp = str("/home/" + userx + "/" + "Backups_Mantle/")
 
+      listdir(loctemp)
+      for item in ArBackups:
+        print(item)
+      # Retornamax elements from array
+      print(len(ArBackups))
+
+      #
 
 if __name__ == '__main__':
+
+
 
   app = QApplication(sys.argv)
   showGB = ShowGB()
