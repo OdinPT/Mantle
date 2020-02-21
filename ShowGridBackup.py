@@ -46,7 +46,6 @@ class ShowGB(QWidget):
     user = getpass.getuser()
     userx = str(user)
 
-
     #loctemp = str("/home/" + userx + "/" + "Backups_Mantle/")
     loctemp = Path('/home/' + userx + '/' + 'Backups_Mantle/')
     print(os.listdir(loctemp))

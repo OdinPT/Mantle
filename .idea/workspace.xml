@@ -445,10 +445,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="a mostrar backups do diretório Mantle_Backups na grid na order vertical" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="1044" width="1366" height="748" key="CommitChangelistDialog2" timestamp="1582252906960">
+    <state x="0" y="1044" width="1366" height="748" key="CommitChangelistDialog2" timestamp="1582253398104">
       <screen x="0" y="1024" width="1366" height="768" />
     </state>
-    <state x="0" y="1044" width="1366" height="748" key="CommitChangelistDialog2/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1582252906960" />
+    <state x="0" y="1044" width="1366" height="748" key="CommitChangelistDialog2/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1582253398104" />
     <state x="32" y="22" key="CommitChangelistDialog2/0.1024.1366.768/32.0.1366.768@32.0.1366.768" timestamp="1580921287084" />
     <state x="0" y="43" key="CommitChangelistDialog2/0.22.1366.746@0.22.1366.746" timestamp="1581340486598" />
     <state x="470" y="1179" key="FileChooserDialogImpl" timestamp="1581732326085">
@@ -510,10 +510,10 @@
     <state x="219" y="0" width="1133" height="768" key="SettingsEditor/0.1024.1366.768/32.0.1366.768@32.0.1366.768" timestamp="1580938356928" />
     <state x="187" y="22" key="SettingsEditor/0.22.1366.746@0.22.1366.746" timestamp="1581511400055" />
     <state x="187" y="773" width="992" height="725" key="SettingsEditor/0.768.1366.768/0.0.1366.768@0.768.1366.768" timestamp="1580700345115" />
-    <state x="179" y="1091" width="1002" height="649" key="Vcs.Push.Dialog.v2" timestamp="1581731840430">
+    <state x="179" y="1091" width="1002" height="649" key="Vcs.Push.Dialog.v2" timestamp="1582253402607">
       <screen x="0" y="1024" width="1366" height="768" />
     </state>
-    <state x="179" y="1091" width="1002" height="649" key="Vcs.Push.Dialog.v2/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1581731840430" />
+    <state x="179" y="1091" width="1002" height="649" key="Vcs.Push.Dialog.v2/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1582253402607" />
     <state x="211" y="67" key="Vcs.Push.Dialog.v2/0.1024.1366.768/32.0.1366.768@32.0.1366.768" timestamp="1580921291025" />
     <state x="179" y="87" key="Vcs.Push.Dialog.v2/0.22.1366.746@0.22.1366.746" timestamp="1581340496069" />
     <state x="384" y="975" key="com.intellij.ide.util.TipDialog" timestamp="1580687848317">

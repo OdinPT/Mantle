@@ -246,7 +246,9 @@ class Main(Dialog):
 
 
                 elif _platform == "win64":
-                    print(" Windows X ")#ver de mostrar a grid de ShowGrid
+                    print(" Windows X ")
+                    #ver de fazer esta parte em windows....
+                    #ver de mostrar a grid de ShowGrid
             else:
                 print("Não existe ficheiro anterior")
 
