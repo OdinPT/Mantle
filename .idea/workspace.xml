@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7c4d53c3-12d0-40c2-8718-de957211d461" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShowGridBackup.py" beforeDir="false" afterPath="$PROJECT_DIR$/ShowGridBackup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backup_2020-02-15.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logBackup.conf" beforeDir="false" afterPath="$PROJECT_DIR$/logBackup.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old_File.backup_2020-02-19.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,7 +219,7 @@
       <workItem from="1581946449505" duration="3466000" />
       <workItem from="1581967556401" duration="7992000" />
       <workItem from="1582129959994" duration="16953000" />
-      <workItem from="1582236364552" duration="9304000" />
+      <workItem from="1582236364552" duration="9843000" />
     </task>
     <task id="LOCAL-00001" summary="21-11-2019">
       <created>1574345428683</created>
@@ -391,7 +389,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582042572194</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="a mostrar backups do diretório Mantle_Backups na grid na order vertical">
+      <created>1582252907823</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1582252907823</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -436,13 +441,14 @@
     <MESSAGE value="reload Readme__PT__ and __EN__" />
     <MESSAGE value="__EN__&#10;Moving the previous backup file to the Mantle_Backups in user home directory&#10;__PT__&#10;A Mover o ficheiro anterior de backups para o diretório Mantle_Backups" />
     <MESSAGE value="__Falta ver de inserir informação do array na grid" />
-    <option name="LAST_COMMIT_MESSAGE" value="__Falta ver de inserir informação do array na grid" />
+    <MESSAGE value="a mostrar backups do diretório Mantle_Backups na grid na order vertical" />
+    <option name="LAST_COMMIT_MESSAGE" value="a mostrar backups do diretório Mantle_Backups na grid na order vertical" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="1046" width="839" height="746" key="CommitChangelistDialog2" timestamp="1582042571417">
+    <state x="0" y="1044" width="1366" height="748" key="CommitChangelistDialog2" timestamp="1582252906960">
       <screen x="0" y="1024" width="1366" height="768" />
     </state>
-    <state x="0" y="1046" width="839" height="746" key="CommitChangelistDialog2/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1582042571417" />
+    <state x="0" y="1044" width="1366" height="748" key="CommitChangelistDialog2/0.1024.1366.768/32.0.1366.768@0.1024.1366.768" timestamp="1582252906960" />
     <state x="32" y="22" key="CommitChangelistDialog2/0.1024.1366.768/32.0.1366.768@32.0.1366.768" timestamp="1580921287084" />
     <state x="0" y="43" key="CommitChangelistDialog2/0.22.1366.746@0.22.1366.746" timestamp="1581340486598" />
     <state x="470" y="1179" key="FileChooserDialogImpl" timestamp="1581732326085">
