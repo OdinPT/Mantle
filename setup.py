@@ -11,6 +11,7 @@ from Qt import QtGui
 from future.backports.datetime import timedelta
 from datetime import date, timedelta
 from formWin import *
+from pathlib import Path
 
 from sys import platform as _platform
 import getpass
@@ -226,7 +227,7 @@ class Main(Dialog):
                     os.rename(OldFile, nfileBackup)
                     shutil.copy2(nfileBackup, 'Backups/');
 
-                    loctemp = str("/home/" + userx + "/" + "Backups_Mantle/")
+                    loctemp = Path('/home/' + userx + '/' + 'Backups_Mantle/')
                     print(loctemp)
 
                     Dir_bacmantle = os.path.isdir(loctemp)
